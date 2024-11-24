@@ -8,7 +8,7 @@ const Footer = () => {
         <a href="https://instagram.com/adega_jj" target="_blank" rel="noopener noreferrer">
           <FaInstagram size={24} />
         </a>
-        <a href="https://wa.me/5551999999999" target="_blank" rel="noopener noreferrer">
+        <a href="https://wa.me/5514997008190" target="_blank" rel="noopener noreferrer">
           <FaWhatsapp size={24} />
         </a>
       </div>
